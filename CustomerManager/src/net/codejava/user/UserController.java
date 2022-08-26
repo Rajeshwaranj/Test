@@ -54,7 +54,7 @@ public class UserController {
 	}
 	
 	@RequestMapping("/search")
-	public ModelAndView search(@RequestParam String keyword) {
+	public ModelAndView search(@RequestParam int keyword) {
 		List<User> result = userService.search(keyword);
 		ModelAndView mav = new ModelAndView("search");
 		mav.addObject("result", result);
