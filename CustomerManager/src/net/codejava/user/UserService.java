@@ -27,7 +27,7 @@ public class UserService {
 		repo.deleteById(id);
 	}
 	
-	public List<User> search(String keyword) {
+	public List<User> search(int keyword) {
 		return repo.search(keyword);
 	}
 }
