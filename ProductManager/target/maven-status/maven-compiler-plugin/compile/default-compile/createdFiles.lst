@@ -1,0 +1,7 @@
+com\luffy\product\ProductController.class
+com\luffy\product\ProductService.class
+com\luffy\config\WebAppInitializer.class
+com\luffy\config\WebMvcConfig.class
+com\luffy\product\ProductRepository.class
+com\luffy\config\JpaConfig.class
+com\luffy\product\Product.class
