@@ -1,0 +1,11 @@
+com\spring\webapp\SpringWebappApplication.class
+com\spring\webapp\models\Category.class
+com\spring\webapp\controllers\ProductController.class
+com\spring\webapp\repository\ProductRepository.class
+com\spring\webapp\controllers\CategoryController.class
+com\spring\webapp\service\CategoryService.class
+com\spring\webapp\repository\CategoryRepository.class
+com\spring\webapp\service\CategoryServiceImpl.class
+com\spring\webapp\models\Product.class
+com\spring\webapp\service\ProductServiceImpl.class
+com\spring\webapp\service\ProductService.class
